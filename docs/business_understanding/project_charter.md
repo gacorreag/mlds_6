@@ -1,4 +1,4 @@
-# Project Charter - Entendimiento del Negocio
+# Entendimiento del Negocio
 
 ## Predicción de Deslizamientos mediante Machine Learning
 
@@ -23,15 +23,17 @@ Se utilizará la metodología TDSP (Team Data Science Process) para estructurar 
 
 ## Cronograma
 
-| Etapa                                        | Duración Estimada | Fechas                         |
-|---------------------------------------------|-------------------|--------------------------------|
-| Entendimiento del negocio y carga de datos  | 2 semanas         | del 1 de julio al 3 de julio  |
-| Preprocesamiento y análisis exploratorio    | 2 semanas         | del 3 al 10 de julio          |
-| Modelamiento y evaluación                   | 4 semanas         | del 10 al 18 de julio 
+| Etapa                                         | Duración Estimada | Fechas                          |
+|----------------------------------------------|-------------------|---------------------------------|
+| Entendimiento del negocio y carga de datos   | 2 semanas         | del 13 de junio al 3 de julio   |
+| Preprocesamiento y análisis exploratorio     | 1 semana          | del 4 al 10 de julio            |
+| Modelamiento y extracción de características | 1 semana          | del 11 al 17 de julio           |
+| Evaluación y ajuste del modelo               | 1 semana          | del 18 al 24 de julio           |
+| Documentación y entrega final del proyecto   | 1 mes             | del 25 de julio al 25 de agosto |
 
 ## Equipo del Proyecto
 
-- Nixon Ivan Sotelo Figueroa
+- Nixon Iván Sotelo Figueroa
 - David Mateo Granados Sarmiento
 - Juan Andres Martinez Moreno
 
