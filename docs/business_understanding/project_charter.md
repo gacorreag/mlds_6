@@ -1,45 +1,39 @@
 # Project Charter - Entendimiento del Negocio
 
 ## Nombre del Proyecto
-
-[Nombre del proyecto aquí]
+Predicción de Deslizamientos mediante Machine Learning
 
 ## Objetivo del Proyecto
-
-[Descripción breve del objetivo del proyecto y por qué es importante]
+Desarrollar un sistema de predicción y alerta temprana de deslizamientos utilizando datos históricos del SIMMA (Servicio Geológico Colombiano), datos de precipitación y pendientes, para contribuir a la gestión del riesgo en zonas vulnerables.
 
 ## Alcance del Proyecto
 
-### Incluye:
+**Incluye:**
+- Integración de datos históricos de deslizamientos (SIMMA), pendientes y lluvia.
+- Implementación de un modelo supervisado de clasificación.
+- Validación del modelo con métricas de desempeño.
+- Generación de mapas de alerta (futuros).
 
-- [Descripción de los datos disponibles]
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
-
-### Excluye:
-
-- [Descripción de lo que no está incluido en el proyecto]
+**Excluye:**
+- Pronóstico meteorológico a futuro.
+- Análisis en tiempo real con sensores físicos.
 
 ## Metodología
-
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+Se utilizará la metodología TDSP (Team Data Science Process) para estructurar el desarrollo del modelo, incluyendo fases de adquisición, análisis exploratorio, entrenamiento y despliegue.
 
 ## Cronograma
 
-| Etapa | Duración Estimada | Fechas |
-|------|---------|-------|
-| Entendimiento del negocio y carga de datos | 2 semanas | del 1 de mayo al 15 de mayo |
-| Preprocesamiento, análisis exploratorio | 4 semanas | del 16 de mayo al 15 de junio |
-| Modelamiento y extracción de características | 4 semanas | del 16 de junio al 15 de julio |
-| Despliegue | 2 semanas | del 16 de julio al 31 de julio |
-| Evaluación y entrega final | 3 semanas | del 1 de agosto al 21 de agosto |
-
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
+| Etapa                                        | Duración Estimada | Fechas                         |
+|---------------------------------------------|-------------------|--------------------------------|
+| Entendimiento del negocio y carga de datos  | 2 semanas         | del 1 de julio al 3 de julio  |
+| Preprocesamiento y análisis exploratorio    | 2 semanas         | del 3 al 10 de julio          |
+| Modelamiento y evaluación                   | 4 semanas         | del 10 al 18 de julio 
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
+- Nixon Ivan Sotelo Figueroa
+- David Mateo Granados Sarmiento
+- Juan Andres Martinez Moreno
 
 ## Presupuesto
 
