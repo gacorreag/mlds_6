@@ -1,7 +1,7 @@
 # Project Charter - Entendimiento del Negocio
 
-## Nombre del Proyecto
-Predicción de Deslizamientos mediante Machine Learning
+## Predicción de Deslizamientos mediante Machine Learning
+
 
 ## Objetivo del Proyecto
 Desarrollar un sistema de predicción y alerta temprana de deslizamientos utilizando datos históricos del SIMMA (Servicio Geológico Colombiano), datos de precipitación y pendientes, para contribuir a la gestión del riesgo en zonas vulnerables.
