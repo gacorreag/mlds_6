@@ -25,7 +25,8 @@ scripts/eda/Analisis_exploratorio.ipynb: Carga y apilamiento de bandas raster en
 - Rutas de origen de datos
 Ubicación: Los archivos ráster originales fueron descargados y almacenados en el directorio:
 
-C:\Users\Lenovo\Documents\Diplomado_ML\Hackaton\Reescalamiento\30m\
+**"https://drive.google.com/drive/u/1/folders/19IrDKVTtjPZG48GnoWkf8Fudcyu_2aCI"**
+
 Estructura: Cada archivo corresponde a una variable distinta y está en formato .tif. Ejemplos:
 
 slope.tif
@@ -50,7 +51,8 @@ Apilamiento de todas las capas en un único stack multibanda: stack_landslide_de
 
 Ubicación: El stack multibanda final fue almacenado como:
 
-C:\Users\Lenovo\Documents\Diplomado_ML\Hackaton\Reescalamiento\30m\stack_landslide_def.tif
+**"stack_landslide_def.tif"**
+
 Estructura: Archivo raster multibanda con tamaño espacial uniforme y 6 bandas útiles para la predicción.
 
 Procedimientos de carga y transformación:
