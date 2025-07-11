@@ -3,12 +3,12 @@
 ## Base de datos 1: Stack ráster multibanda
 ---
 
-**Archivo raster .tif multibanda (stack_landslide_def.tif) compuesto por 8 bandas, cada una representando una variable relevante para la modelación de la susceptibilidad a deslizamientos. Las bandas fueron reescaladas a una resolución común (30 m/pixel) y alineadas espacialmente.
+Archivo raster .tif multibanda (stack_landslide_def.tif) compuesto por 8 bandas, cada una representando una variable relevante para la modelación de la susceptibilidad a deslizamientos. Las bandas fueron reescaladas a una resolución común (30 m/pixel) y alineadas espacialmente.
 
 | Banda | Variable original  | Descripción breve                                       | Tipo de dato | Rango/Valores observados | Fuente de datos                 |
 | ----- | ------------------ | ------------------------------------------------------- | ------------ | ------------------------ | ------------------------------- |
 | 1     | Pendiente          | Inclinación del terreno calculada a partir del DEM      | float32      | 0.0 – 84.12              | Derivado de SRTM                |
-| 2     | TRI                | Índice de Rugosidad Topográfica (con outliers extremos) | float32      | -3.40e+38 – 259.73 ⚠️    | Derivado de SRTM                |
+| 2     | TRI                | Índice de Rugosidad Topográfica (con outliers extremos) | float32      | -3.40e+38 – 259.73       | Derivado de SRTM                |
 | 3     | DEM                | Modelo digital de elevación                             | float32      | 0.0 – 5287.0             | SRTM                            |
 | 4     | Distancia a fallas | Distancia en grados a la falla más cercana              | float32      | 0.0 – 0.16296            | Fallas geológicas (SGC)         |
 | 5     | NDVI               | Índice de vegetación normalizada                        | float32      | -0.026 – 0.8685          | MODIS (2009–presente, promedio) |
@@ -20,7 +20,7 @@
 ## Base de datos 2
 ---
 
-**Archivos NumPy generados para entrenamiento y evaluación del modelo CNN. Incluyen parches de entrada 13x13x6 y etiquetas binarias.
+Archivos NumPy generados para entrenamiento y evaluación del modelo CNN. Incluyen parches de entrada 13x13x6 y etiquetas binarias.
 
 | Variable         | Descripción                                          | Tipo de dato         | Rango/Valores posibles                    | Fuente de datos               |
 | ---------------- | ---------------------------------------------------- | -------------------- | ----------------------------------------- | ----------------------------- |
