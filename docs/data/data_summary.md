@@ -41,6 +41,9 @@ Este documento contiene los resultados del análisis exploratorio de datos del m
   - Se escalaron y normalizaron los datos.
   - Se documentó la anomalía en TRI para su posible exclusión o tratamiento posterior.
 
+<img width="1322" height="262" alt="image" src="https://github.com/user-attachments/assets/44e16c31-fe98-45b5-a142-4da975ae4e70" />
+
+
 ---
 
 ## 🎯 Variable objetivo
@@ -51,6 +54,8 @@ Este documento contiene los resultados del análisis exploratorio de datos del m
   - Deslizamiento: 447 observaciones
   - Distribución balanceada (~50/50)
 - **Visualización:** Se graficó la frecuencia de cada clase y se analizaron las métricas de clasificación (precision, recall, f1-score) para evaluar la calidad predictiva del modelo.
+
+<img width="1318" height="551" alt="image" src="https://github.com/user-attachments/assets/663f322f-c742-44cc-8e00-bc8e134f3af1" />
 
 ---
 
@@ -86,6 +91,8 @@ Se utilizó Random Forest, PCA y correlación para identificar las variables má
 
 - **PCA:** Los primeros 5 componentes explican la mayor varianza.
 - **Correlación con variable objetivo:** Se identificaron múltiples variables con r > 0.25 como predictoras útiles.
+
+<img width="1316" height="432" alt="image" src="https://github.com/user-attachments/assets/dced7770-1d69-4fdc-9856-1d2b0f1e2950" />
 
 ---
 
