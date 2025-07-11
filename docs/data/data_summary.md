@@ -47,8 +47,8 @@ Este documento contiene los resultados del análisis exploratorio de datos del m
 
 - **Tipo:** Variable binaria (0 = No deslizamiento, 1 = Deslizamiento)
 - **Distribución:**
-  - No deslizamiento: 81 observaciones
-  - Deslizamiento: 90 observaciones
+  - No deslizamiento: 404 observaciones
+  - Deslizamiento: 447 observaciones
   - Distribución balanceada (~50/50)
 - **Visualización:** Se graficó la frecuencia de cada clase y se analizaron las métricas de clasificación (precision, recall, f1-score) para evaluar la calidad predictiva del modelo.
 
@@ -95,6 +95,8 @@ Se utilizó Random Forest, PCA y correlación para identificar las variables má
 - **Diagrama de dispersión (resumen):** Mostró que valores de pendiente, NDVI y DEM tienden a diferenciar zonas con deslizamiento.
 - **Regresión lineal (opcional):** Permitió evidenciar tendencias, aunque la relación no es completamente lineal.
 - **Correlación entre bandas del raster:** DEM y NDVI tienen alta correlación inversa. Geología y TWI muestran independencia.
+  
+<img width="695" height="589" alt="image" src="https://github.com/user-attachments/assets/52599430-6805-4169-9c92-6cde746ff93f" />
 
 ---
 
