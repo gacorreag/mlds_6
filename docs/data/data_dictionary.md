@@ -24,7 +24,7 @@ Archivos NumPy generados para entrenamiento y evaluación del modelo CNN. Incluy
 
 | Variable         | Descripción                                          | Tipo de dato         | Rango/Valores posibles                    | Fuente de datos               |
 | ---------------- | ---------------------------------------------------- | -------------------- | ----------------------------------------- | ----------------------------- |
-| X\_cubos.npy     | Matriz de entrada con cubos 13x13 píxeles y 6 bandas | float32\[𝑛,13,13,6] | 0.0 – 1.0 (normalizado)                   | Derivado del stack multibanda |
+| X\_cubos.npy     | Matriz de entrada con cubos 13x13 píxeles y 8 bandas | float32\[𝑛,13,13,6] | 0.0 – 1.0 (normalizado)                   | Derivado del stack multibanda |
 | y\_etiquetas.npy | Etiqueta binaria del centro del parche               | int64\[𝑛]           | 0 = No deslizamiento<br>1 = Deslizamiento | SIMMA (puntos de ocurrencia)  |
 
 
