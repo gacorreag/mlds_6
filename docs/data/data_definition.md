@@ -1,5 +1,5 @@
 # Definición de los datos
-
+---
 ## Origen de los datos
 
 Los datos utilizados en este proyecto provienen de fuentes públicas y confiables:
@@ -13,6 +13,7 @@ Datos derivados: A partir de los rásters se generó un stack multibanda para fa
 La zona de estudio se ubica en el eje cafetero colombiano, específicamente en el departamento de Caldas. 
 
 ## Especificación de los scripts para la carga de datos
+---
 
 - Los siguientes scripts se implementaron para la carga, procesamiento y transformación de los datos:
 
@@ -21,8 +22,8 @@ scripts/eda/Analisis_exploratorio.ipynb: Carga y apilamiento de bandas raster en
 (Hasta ahora)
 
 ### Rutas de origen de datos
+---
 
-- Rutas de origen de datos
 Ubicación: Los archivos ráster originales fueron descargados y almacenados en el directorio:
 
 **"https://drive.google.com/drive/u/1/folders/19IrDKVTtjPZG48GnoWkf8Fudcyu_2aCI"**
@@ -48,6 +49,7 @@ Eliminación de bandas redundantes o con bajo aporte (ej. Banda 2).
 Apilamiento de todas las capas en un único stack multibanda: stack_landslide_def.tif.
 
 ### Base de datos de destino
+---
 
 Ubicación: El stack multibanda final fue almacenado como:
 
