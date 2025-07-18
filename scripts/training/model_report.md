@@ -23,37 +23,43 @@ Se utilizó una red neuronal convolucional (CNN) implementada con una arquitectu
 ## Evaluación del Modelo
 
 En este caso para mostrar la evaluacion del modelo vamos a mostrar el reporte de clasificación.
+
 <img width="497" height="150" alt="image" src="https://github.com/user-attachments/assets/0cd1b726-9cc2-4172-9a45-57044b495e29" />
 
   
+Buen balance entre precisión y recall.
 
+El modelo generaliza bien con los datos actuales, aunque podría beneficiarse de mayor balanceo de clases o datos aumentados.
 
 ## Conclusiones y Recomendaciones
 
 Fortalezas:
-Modelo liviano, con arquitectura clara y eficiente.
 
-Precisión superior al azar, cercana al 80%.
+- Modelo liviano, con arquitectura clara y eficiente.
 
-Entrenamiento estable y sin sobreajuste.
+- Precisión superior al azar, cercana al 80%.
 
-Código portable y reutilizable.
+- Entrenamiento estable y sin sobreajuste.
+
+- Código portable y reutilizable.
 
 Limitaciones:
-No se utilizó validación cruzada.
 
-El dataset puede estar desbalanceado, afectando métricas por clase.
+- No se utilizó validación cruzada.
 
-No se usaron técnicas de aumento de datos ni modelos alternativos para comparación.
+- El dataset puede estar desbalanceado, afectando métricas por clase.
+
+- No se usaron técnicas de aumento de datos ni modelos alternativos para comparación.
 
 Recomendaciones:
-Incorporar matriz de confusión y análisis por clase.
 
-Probar modelos alternativos como RandomForest, XGBoost o otras alternativas de ML que quiza muesyten un funcionamiento eficiente
+- Incorporar matriz de confusión y análisis por clase.
 
-Implementar k-fold cross-validation para evaluar robustez.
+- Probar modelos alternativos como RandomForest, XGBoost o otras alternativas de ML que quiza muesyten un funcionamiento eficiente
 
-Hacer tuning de hiperparámetros con KerasTuner o Optuna
+- Implementar k-fold cross-validation para evaluar robustez.
+
+- Hacer tuning de hiperparámetros con KerasTuner o Optuna
 
 ## Referencias
 
