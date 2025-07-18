@@ -23,14 +23,9 @@ Se utilizó una red neuronal convolucional (CNN) implementada con una arquitectu
 ## Evaluación del Modelo
 
 En este caso para mostrar la evaluacion del modelo vamos a mostrar el reporte de clasificación.
-              precision    recall  f1-score   support
+<img width="497" height="150" alt="image" src="https://github.com/user-attachments/assets/0cd1b726-9cc2-4172-9a45-57044b495e29" />
 
-No Deslizamiento       0.75      0.82      0.78       XXX
-Deslizamiento          0.78      0.70      0.74       YYY
-
-accuracy               0.77
-macro avg              0.76      0.76      0.76
-weighted avg           0.77      0.77      0.77
+  
 
 
 ## Conclusiones y Recomendaciones
