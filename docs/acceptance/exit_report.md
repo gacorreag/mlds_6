@@ -37,7 +37,7 @@ Como producto final, se generó un mapa de susceptibilidad a deslizamientos en l
 
 A continuación, se adjunta el mapa generado a partir de la inferencia masiva sobre el stack multibanda. El resultado se almacenó como un archivo `.tif` georreferenciado y visualizado en el siguiente producto cartográfico:
 
-![Mapa de susceptibilidad a deslizamientos](Mapa de susceptibilidad a deslizamientos CNN.jpg)
+![Mapa de susceptibilidad a deslizamientos](Mapa.jpg)
 
 ## Lecciones aprendidas
 
