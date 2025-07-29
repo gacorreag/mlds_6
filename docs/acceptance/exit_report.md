@@ -41,13 +41,6 @@ A continuación, se adjunta el mapa generado a partir de la inferencia masiva so
 
 ## Lecciones aprendidas
 
-Mostrar siempre los detalles
-
-Copiar
-from pathlib import Path
-
-# Contenido del archivo Markdown con lecciones aprendidas
-contenido_md = """
 # Lecciones aprendidas
 
 ## Identificación de los principales desafíos y obstáculos encontrados durante el proyecto
