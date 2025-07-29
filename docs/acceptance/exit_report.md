@@ -21,7 +21,6 @@ Esta plataforma constituye un aporte significativo al uso de tecnologías accesi
 
 ## Resultados del proyecto
 
-#  Resultados del proyecto
 
 ##  Resumen de los entregables y logros alcanzados en cada etapa del proyecto
 
@@ -55,8 +54,6 @@ A continuación, se adjunta el mapa generado a partir de la inferencia masiva so
 ![Mapa de susceptibilidad a deslizamientos](Mapa.jpg)
 
 ## Lecciones aprendidas
-
-# Lecciones aprendidas
 
 ## Identificación de los principales desafíos y obstáculos encontrados durante el proyecto
 
