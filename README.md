@@ -4,6 +4,7 @@ Este repositorio fue creado para desarrollar un proyecto basado en CNN con el ob
 
 Proporciona las siguientes carpetas y archivos:
 
-* `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
-* `scripts`: esta carpeta contiene los scripts/notebooks que se ejecutaron durante el proyecto
+* `docs`: En esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
+* `scripts`: Esta carpeta contiene los scripts/notebooks que se ejecutaron durante el proyecto
+* `Proyecto_despliegue`: Aqui se encontraran los archivos utilizados para el desarrollo de la API
 * `pyproject.toml`: archivo de definición del proyecto en Python.
