@@ -1,4 +1,10 @@
 # Informe de salida
+---
+
+*Nixon Iván Sotelo Figueroa*
+*David Mateo Granados Sarmiento*
+*Juan Andres Martinez Moreno*
+**Geologos Universidad Nacional de Colombia**
 
 ## Resumen Ejecutivo
 
