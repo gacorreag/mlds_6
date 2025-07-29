@@ -1,10 +1,9 @@
-# Team Data Science Project Template
+# Predicción de Deslizamientos mediante Machine Learning
 
-Esta plantilla es una implementación de la plantilla de proyecto de Team Data Science Process que actualmente se utiliza en el "Programa de Formación en Machine Learning y Data Science" en la Universidad Nacional de Colombia.
+Este repositorio fue creado para desarrollar un proyecto basado en CNN con el objetivo de utilizar imagenes satelitales para la predicción y/o estimacion de movimientos en masa en la zona cafetera de Colombia. El proyecto fue desarrolla en el marco del "Programa de Formación en Machine Learning y Data Science" de la Universidad Nacional de Colombia.
 
-Esta plantilla proporciona las siguientes carpetas y archivos:
+Proporciona las siguientes carpetas y archivos:
 
-* `src`: acá debe ir el código o implementación del proyecto en Python.
 * `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
-* `scripts`: esta carpeta debe contener los scripts/notebooks que se ejecutarán.
+* `scripts`: esta carpeta contiene los scripts/notebooks que se ejecutaron durante el proyecto
 * `pyproject.toml`: archivo de definición del proyecto en Python.
