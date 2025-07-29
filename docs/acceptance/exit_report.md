@@ -84,7 +84,7 @@ Durante el desarrollo del proyecto se presentaron diversos desafíos, entre ello
 
 ## Impacto del proyecto
 
-- Esta plataforma puede escalarse fácilmente a otras regiones andinas o latinoamericanas.
+- Este modelo puede escalarse fácilmente a otras regiones andinas o latinoamericanas.
 Puede complementarse con un sistema de alertas tempranas, conectando sensores en
 tiempo real.
 - Promueve la ciencia abierta y el uso de tecnología accesible para gobiernos locales y
