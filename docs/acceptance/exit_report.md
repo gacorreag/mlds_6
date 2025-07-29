@@ -14,9 +14,9 @@ Esta plataforma constituye un aporte significativo al uso de tecnologías accesi
 
 ## Resultados del proyecto
 
-# 🧾 Resultados del proyecto
+#  Resultados del proyecto
 
-## ✅ Resumen de los entregables y logros alcanzados en cada etapa del proyecto
+##  Resumen de los entregables y logros alcanzados en cada etapa del proyecto
 
 A lo largo del proyecto se logró construir un sistema funcional de predicción de deslizamientos mediante aprendizaje profundo, específicamente con una red neuronal convolucional (CNN), aplicando imágenes multibanda extraídas de sensores satelitales en la zona cafetera de Colombia.  
 Los principales entregables fueron:
@@ -29,13 +29,13 @@ Los principales entregables fueron:
 - Validación de la API con cubos reales serializados desde imágenes `.tif`.
 - Generación de un nuevo `.tif` con los resultados de predicción espacial de susceptibilidad.
 
-## 📊 Evaluación del modelo final y comparación con el modelo base
+##  Evaluación del modelo final y comparación con el modelo base
 
 El modelo final logró una capacidad adecuada para diferenciar zonas con presencia de deslizamientos frente a zonas estables, mejorando el desempeño del modelo base que simplemente asumía distribuciones balanceadas o reglas heurísticas.  
 La evaluación se realizó con métricas como precisión, recall y AUC, y se observó que la CNN permite captar patrones espaciales multivariados de manera robusta.  
 Además, se construyó un *pipeline* desde el preprocesamiento hasta la predicción automática vía API, facilitando su reutilización.
 
-## 🌍 Descripción de los resultados y su relevancia para el negocio
+##  Descripción de los resultados y su relevancia para el negocio
 
 Como producto final, se generó un mapa de susceptibilidad a deslizamientos en la región cafetera de Colombia, con una resolución de 30 metros. Este resultado es particularmente valioso para:
 
